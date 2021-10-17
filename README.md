@@ -15,6 +15,15 @@
   </a>
 </p>
 
+## 🚀 USING </p>
+
+#### 🚀 FireBase </p>
+#### 🚀 Redux </p>
+#### 🚀 APIs </p>
+- Google places API Key.</p>
+- Yelp API Key.
+</p>
+
 ## 🚀 How to use
 
 - Install packages with `yarn` or `npm install`.
@@ -24,5 +33,7 @@
   - iOS: [Client iOS](https://itunes.apple.com/app/apple-store/id982107779)
   - Android: [Client Android](https://play.google.com/store/apps/details?id=host.exp.exponent&referrer=blankexample)
   - Web: Any web browser
+  ![](ScreenPic.png)
+
 
 
